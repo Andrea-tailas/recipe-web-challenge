@@ -36,7 +36,7 @@ img{
       
 
 }
-.prepa{
+.prepar{
       text-align: center;
       font-size: 1.4rem;
       font-weight: 600;
@@ -59,7 +59,7 @@ h3{
 ul li{
       padding-bottom: 1rem;
 }
-.hed{
+.ingr{
       font-weight: 600;
       font-size: 1.5rem;
       margin-left: 1.5rem;
@@ -71,6 +71,7 @@ padding-left: 10px;
       font-weight: 600;
       font-size: 1.5rem;
       margin-left: 1.5rem;  
+      line-height: 25pt;
 }
 span{
       font-weight: 400;
@@ -89,6 +90,10 @@ span{
 }
 table{
       width: 100%;
+      border-collapse: collapse;
+      border-top: none;
+      border-left: none;
+      border-right: none;
 
 }
 th{
